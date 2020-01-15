@@ -5,6 +5,7 @@
 ### 分类
 
 - [linux笔记](https://github.com/lcyan/blog/projects/1)
+- [配置文件](https://github.com/lcyan/blog/projects/2)
 
 ### 主要文章
 
