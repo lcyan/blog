@@ -47,7 +47,7 @@ docker logs <容器id>
 sudo mkdir -p /etc/docker
 sudo tee /etc/docker/daemon.json <<-'EOF'
 {
-  "registry-mirrors": ["https://zmkmh4t7.mirror.aliyuncs.com"]
+  "registry-mirrors": ["https://dockerpull.cn"]
 }
 EOF
 sudo systemctl daemon-reload
